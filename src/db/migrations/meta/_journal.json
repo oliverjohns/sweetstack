@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1686728783875,
+      "tag": "0000_groovy_shatterstar",
+      "breakpoints": false
+    }
+  ]
+}

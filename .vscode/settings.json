@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.organizeImports": true,
+      "source.sortMembers": true
+    },
+    "i18n-ally.localesPaths": ["public/static/locales"],
+    "i18n-ally.keystyle": "nested",
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+  
